@@ -2,13 +2,24 @@
 
 ![stack](https://img.shields.io/badge/stack-Node.js-1f6feb) ![focus](https://img.shields.io/badge/focus-Node.js-0f766e) ![status](https://img.shields.io/badge/status-arquivado-2ea44f)
 
-API Node.js para consultar dados do Preço da Hora Bahia. Este repositório documenta uma implementação voltada a API, com base principal em Node.js e um resumo organizado para deixar escopo, tecnologias e estágio atual claros logo na primeira leitura.
+API Node.js para consultar dados do Preço da Hora Bahia. Este repositório documenta uma implementação voltada a API, com base principal em Node.js, destacando decisões de implementação, tecnologias adotadas e forma de execução para análise técnica do projeto.
 
 ## Visão geral
 
-Projeto desenvolvido com foco em api e stack principal em Node.js. Este repositório apresenta uma solução relacionada a api, nodejs, price-search, destacando o contexto do problema, a direção técnica adotada e a forma recomendada de executar ou avaliar a entrega.
+Projeto desenvolvido com foco em api e stack principal em Node.js. Este repositório apresenta uma solução relacionada a api, nodejs, price-search, com ênfase em escopo técnico, estrutura de implementação e pontos úteis para leitura de código, execução local e avaliação da abordagem adotada.
 
-## O que este projeto entrega
+## Contexto técnico
+
+- Objetivo técnico: API Node.js para consultar dados do Preço da Hora Bahia..
+- Categoria do projeto: API.
+- Stack principal identificada: Node.js.
+
+## Stack principal
+
+- Node.js
+- JavaScript
+
+## Arquitetura e implementação
 
 - Escopo principal: API Node.js para consultar dados do Preço da Hora Bahia.
 - Stack central: Node.js.
@@ -16,11 +27,7 @@ Projeto desenvolvido com foco em api e stack principal em Node.js. Este reposit�
 - Temas centrais trabalhados neste repositório: api, nodejs, price-search.
 - Scripts disponíveis no projeto: test.
 - Dependências de referência: axios, express, node-html-parser, precodahora-api.
-
-## Stack e execução
-
-- Node.js
-- JavaScript
+- Dependências de desenvolvimento em evidência: ava.
 
 ## Como executar
 
