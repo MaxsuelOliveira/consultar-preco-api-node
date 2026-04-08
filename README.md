@@ -2,23 +2,25 @@
 
 ![stack](https://img.shields.io/badge/stack-Node.js-1f6feb) ![focus](https://img.shields.io/badge/focus-Node.js-0f766e) ![status](https://img.shields.io/badge/status-arquivado-2ea44f)
 
-API Node.js para consultar dados do Preço da Hora Bahia.
+API Node.js para consultar dados do Preço da Hora Bahia. Este repositório documenta uma implementação voltada a API, com base principal em Node.js e um resumo organizado para deixar escopo, tecnologias e estágio atual claros logo na primeira leitura.
 
-## Visao geral
+## Visão geral
 
-Projeto com foco em api usando Node.js. Ele destaca api, nodejs, price-search de forma direta para facilitar a leitura de visitantes e recrutadores.
+Projeto desenvolvido com foco em api e stack principal em Node.js. Este repositório apresenta uma solução relacionada a api, nodejs, price-search, destacando o contexto do problema, a direção técnica adotada e a forma recomendada de executar ou avaliar a entrega.
 
-## Stack
+## O que este projeto entrega
+
+- Escopo principal: API Node.js para consultar dados do Preço da Hora Bahia.
+- Stack central: Node.js.
+- Tipo de projeto: API.
+- Temas centrais trabalhados neste repositório: api, nodejs, price-search.
+- Scripts disponíveis no projeto: test.
+- Dependências de referência: axios, express, node-html-parser, precodahora-api.
+
+## Stack e execução
 
 - Node.js
 - JavaScript
-
-## Destaques
-
-- API Node.js para consultar dados do Preço da Hora Bahia.
-- Tipo principal: API.
-- Temas centrais: api, nodejs, price-search.
-- Scripts detectados: test.
 
 ## Como executar
 
@@ -28,7 +30,8 @@ Projeto com foco em api usando Node.js. Ele destaca api, nodejs, price-search de
 ## Status
 
 - Estado atual: arquivado.
-- Repositorio arquivado para consulta e historico.
+- Repositório arquivado para consulta e histórico.
+- Documentação alinhada ao template base atual do portfólio.
 
 ## Contato
 
